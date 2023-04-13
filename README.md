@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravi903132&label=Profile%20views&color=0e75b6&style=flat" alt="ravi903132" /> </p>
 
-- 🔭 Mern Project [GitUserSearch](https://6437d94b2931fc11a83e1aa1--lively-sable-a86679.netlify.app/)
+- 🔭 Mern Project [GitUserSearch](https://gitusersearch850.netlify.app/)
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
